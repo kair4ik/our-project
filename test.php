@@ -28,9 +28,10 @@
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="/test.php">Тест </a>
-              <a class="nav-link" href="/test2.php">Тест2</a>
-          </li>
+            <a class="nav-link" href="/test.php">Тест</a>
+            </li>
+            <li class="nav-item active">
+            <a c
         </ul>
       </div>
     </nav>

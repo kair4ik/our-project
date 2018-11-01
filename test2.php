@@ -27,10 +27,11 @@
       <a class="navbar-brand" href="/index.php">Главная</a>
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
+                      <li class="nav-item active">
             <a class="nav-link" href="/test.php">Тест</a>
-            <a class="nav-link" href="/test2.php">Тест2</a>
-          </li>
+            </li>
+            <li class="nav-item active">
+            <a c
         </ul>
       </div>
     </nav>

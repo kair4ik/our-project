@@ -71,12 +71,10 @@
           <h1 class="display-3">О_о'</h1>
 
             <?php
-                $number = rand(1,500);
-
-                for($i=0; $i<50; $i =$i+2)
+                for($i=0; $i<=50; $i++)
                     {
-//                        echo $i."  |  ";
-                        echo rand(1,500)." ";
+                     $number = rand(1,500);
+                        echo $number." ";
                     }
              ?>
 

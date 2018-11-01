@@ -29,7 +29,7 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
             <a class="nav-link" href="/test.php">Тест</a>
-              <a class="nav-link" href="/test2.php">Тест2</a>
+            <a class="nav-link" href="/test2.php">Тест2</a>
           </li>
         </ul>
       </div>
